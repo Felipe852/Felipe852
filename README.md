@@ -24,6 +24,10 @@
 
 </p>
 
+<p align='center'>
+    <img src="https://camo.githubusercontent.com/cb82e4a02eba709ee6456b3a07a464d768c22a27bdecbeef2d73d95ff18fe8bf/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4f70656e2b53616e7326636f6c6f723d4637373637362677696474683d353030266c696e65733d546869732b69732b6d792b4769744875622b7374617473" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe852)](https://github.com/Felipe852/github-readme-stats)
+</p>
 
 <p align='center'>
   💻Tech & Tools <br/><br/>
@@ -38,3 +42,7 @@
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
 </p>
+
+
+## Hi 👋  I'm Sara Bermudez <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" />
+ 
