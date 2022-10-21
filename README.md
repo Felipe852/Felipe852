@@ -26,8 +26,7 @@
 
 <p align='center'>
     <img src="https://camo.githubusercontent.com/cb82e4a02eba709ee6456b3a07a464d768c22a27bdecbeef2d73d95ff18fe8bf/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4f70656e2b53616e7326636f6c6f723d4637373637362677696474683d353030266c696e65733d546869732b69732b6d792b4769744875622b7374617473" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Felipe852" />
-    <img src="https://github.com/Felipe852/github-readme-stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Felipe852&show_icons=true&theme=dark" />
 </p>
 
 <p align='center'>
